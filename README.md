@@ -81,33 +81,41 @@ Download script (script.txt) Please note this is not made by me, I will find the
 ![image](https://user-images.githubusercontent.com/60897810/146274061-0d05192d-d905-4254-a7a3-24f04c0c322e.png)
 
 Open Script.
+
 ![image](https://user-images.githubusercontent.com/60897810/146274095-0e44e995-8f09-4a29-80d9-94802962ccd8.png)
 
 Put token where it states "token here" (do in beetween quotes)
+
 ![image](https://user-images.githubusercontent.com/60897810/146274333-75f42854-aefd-4bed-ba04-525b4c4bb5ea.png)
 (thats an actual stolen token...)
 
 Do CRTL and A at the same time to select all of the script.
+
 ![image](https://user-images.githubusercontent.com/60897810/146274410-990c869f-92c3-4edc-a2aa-8a10d96d8275.png)
 
 Do CRTL and C at the saeme time to copy the entire script.
 (no image)
 
 Go back to your Discord page and do CTRL and V at the same time to paste your code into the console.
+
 ![image](https://user-images.githubusercontent.com/60897810/146274571-a6f21ec0-2db2-46fd-9531-07a0717c0ac9.png)
 
 Hit enter.
 
 You should get a tiny:
+
 ![image](https://user-images.githubusercontent.com/60897810/146274612-f2d6f70d-dc50-45ba-908f-9751f5bb0ff4.png)
 
 then a wack of errors, HOLD UP!s and other stuff that you don't need to understand to do this ( in french cause the stolen account is french)
+
 ![image](https://user-images.githubusercontent.com/60897810/146274717-d1e5abdd-304d-4e96-bcd1-86e202706548.png)
 
 Hit the X in the top right corner (normal top right corner...)
+
 ![image](https://user-images.githubusercontent.com/60897810/146274770-4ff0422f-96df-453b-93da-dacb6448e698.png)
 
 And you should be logged into the account!
+
 ![image](https://user-images.githubusercontent.com/60897810/146274807-d27063e7-995e-4250-89a3-5a90b9571c15.png)
 
 
