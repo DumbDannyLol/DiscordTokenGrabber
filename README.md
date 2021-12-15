@@ -1,5 +1,6 @@
 # Discord Token Grabber By DumbDanny Lol
 ![image](https://user-images.githubusercontent.com/60897810/146264943-12f78387-be8f-46c7-8a41-e897743d6a08.png)
+
 (credit to PC strike for image XD)
  
  
@@ -11,35 +12,46 @@
  # Logger without GUI:
  scroll through until about...
  ![image](https://user-images.githubusercontent.com/60897810/146260152-fd62a216-9e67-456b-8adf-f57c7eeed19b.png)
+
 ...here and replace whats in the "quotes" with your webhook URL.
 How send the victim your python file if you are not turning it into an EXE.
 
 # How to turn your script into and exe:
 Run whatever python console you are using.
 ![image](https://user-images.githubusercontent.com/60897810/146260505-b34d6f8e-e937-48c4-bbef-fc91847a79f1.png)
+
 Type in
 pip install Pyinstaller
 ![image](https://user-images.githubusercontent.com/60897810/146260623-19de23f5-1f49-4a6f-82b0-24a32c44674a.png)
+
 this assuming you have pip installed.
 hit enter
 ![image](https://user-images.githubusercontent.com/60897810/146260691-63911a87-6c8f-4a02-a0bf-401fd20c7660.png)
+
 you should get a lot of text. The only thing you should be concerned about is anything that seems to say error. With that i cannot help you here.
 Next, change directories into your place where the script is stored. Im keeping mine on the desktop.
 ![image](https://user-images.githubusercontent.com/60897810/146260875-6448ecda-c120-4b9d-952f-0b596eb52d82.png)
+
 next run the command:
 Pyinstaller --onefile main.py
 ![image](https://user-images.githubusercontent.com/60897810/146260990-561a0383-d503-4a30-befe-2ef9092568c3.png)
+
 if you do not want the black screen to pop up as the token is being logged on the victims PC add the following "--noconsole" after "--onefile" like so:
 ![image](https://user-images.githubusercontent.com/60897810/146261129-8c2a1833-c4ba-41f3-b7d0-91329ff8a1bc.png)
+
 hit enter.
 If no errors occur (my code ain't perfect) you should get 3 or 4 folders/files.
 ![image](https://user-images.githubusercontent.com/60897810/146262353-f66e47c4-acda-433d-b17e-bb471eff52c0.png)
+
 Go into dist
 ![image](https://user-images.githubusercontent.com/60897810/146262407-70c6cd15-6515-4144-98f7-8218789f0392.png)
+
 Here, you will find the compiled code, that you can rename, change the icon if you know how, and send to your victim.
 ![image](https://user-images.githubusercontent.com/60897810/146262497-62345e41-cd94-4751-a53f-7a7f59cf8147.png)
+
 Each time after the program is closed, a note file will open up stating the following error:
 ![image](https://user-images.githubusercontent.com/60897810/146262642-f718cec4-c11a-44ee-a104-33f6b0634f1d.png)
+
 This is to make sure everything worked right. IF it appears, you should recive the token.
 How do you know if it appears? Ask them about it i guess.
 It should appear in the same file as the main.exe or whatever you named it.
