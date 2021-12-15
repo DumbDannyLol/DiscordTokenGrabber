@@ -1,5 +1,6 @@
 # Discord Token Grabber By DumbDanny Lol
-![Alt text](relative/path/to/Nitro.png?raw=true "Nitro.png")
+![image](https://user-images.githubusercontent.com/60897810/146264943-12f78387-be8f-46c7-8a41-e897743d6a08.png)
+(credit to PC strike for image XD)
  
  
  
