@@ -2,6 +2,9 @@
 ![image](https://user-images.githubusercontent.com/60897810/146264943-12f78387-be8f-46c7-8a41-e897743d6a08.png)
 
 (credit to PC strike for image XD)
+
+# What to expect with this ReadME file:
+In this file I will go through how to Compile your code (turn it into an EXE file instead of a .py file) I will teach you how to set up your Webhook to recive the token, I will teach you how to log in with your stolen token, and I will teach you how to customize certain things, mainly the message to display after the token has been sent to you.
  
  
  
@@ -117,6 +120,53 @@ Hit the X in the top right corner (normal top right corner...)
 And you should be logged into the account!
 
 ![image](https://user-images.githubusercontent.com/60897810/146274807-d27063e7-995e-4250-89a3-5a90b9571c15.png)
+
+# How to change the message after the token has been sent you you:
+So as you may know if you have read the complete readme file, a notepad message gets displayed after the token has been sent to you. Before changes, It looks like this:
+![image](https://user-images.githubusercontent.com/60897810/146276548-a8054473-d980-408d-a31e-bd2a2f557123.png)
+
+Follow these steps **very carefully** as to avoid accidentally ruining the code. Also please note that I do not think it is a great idea to mess with the code of the GUI grabber because it is so delicate that 1 misplaced " can leave you stumped for hours due to it being a mix of python and Tnk.
+
+**Open your code in a code editor, such as sublime text.**
+![image](https://user-images.githubusercontent.com/60897810/146276916-67a9f6e0-f218-4c30-816c-7388d57aade2.png)
+
+To change the `name` of the file, you will have to modify a few things.
+First thing is on line 3, and it would be the:
+![image](https://user-images.githubusercontent.com/60897810/146277059-5a9710f7-2547-493f-b159-3ef9d5927a5a.png)
+
+Change whats in the quotes to the name you like, but I do not recommend changing the file extension (.txt)
+
+So now it should still look like before, but with that custom name of yours.
+![image](https://user-images.githubusercontent.com/60897810/146277185-a161de18-722b-425b-8514-30afa4e567db.png)
+
+The second thing we want to change is the file open command because it is not going to open a file if it doesn't exist.
+![image](https://user-images.githubusercontent.com/60897810/146277273-ad153a79-be2b-4c65-b27b-6db1be3badd5.png)
+
+As you can probably guess, we are going to ensure that the file name is the same as the other one.
+![image](https://user-images.githubusercontent.com/60897810/146277384-9548eed5-2032-4039-9cf9-861cc99dbd20.png)
+![image](https://user-images.githubusercontent.com/60897810/146277412-dd9dd289-09fc-4e33-b4b5-1d45d497c74d.png)
+
+The third thing we have to change is the second open and write code (the one that actually writes). Do the same as before and ensure they match up all the same.
+![image](https://user-images.githubusercontent.com/60897810/146277578-8af4b04c-246d-4630-8991-34b5e235cdd7.png)
+
+The fourth thing we are going to change is the code that actually starts the file for the victim after their token has been logged.
+![image](https://user-images.githubusercontent.com/60897810/146277697-b93f24de-fd0d-45ef-895a-95c2775098fe.png)
+
+Now that thats done, make sure your code is saved, and try opening your script!
+**WARNING:** MAKE SURE YOUR WEBHOOK IS SET TO A SECURE ENVIROMENT WITH JUST YOU OR SOMEONE YOU DON'T WANT LOGGING INTO YOUR ACCOUNT COULD LOG IN!
+![image](https://user-images.githubusercontent.com/60897810/146277979-2e7064d6-a5ef-420b-b130-be37542dfb31.png)
+
+(empty folder with just my script)
+![image](https://user-images.githubusercontent.com/60897810/146278038-de0a6cf4-a05c-4570-8817-18bc3af941c8.png)
+
+The ChangedName.txt popped up meaning we're good to go!
+![image](https://user-images.githubusercontent.com/60897810/146278265-a7ae19a2-f5ce-4376-8ce5-29e49730ffc9.png)
+
+And look! The token with any other information the code could collect was sent right from my *trusted* webhook! (stolen account from earlier)
+![image](https://user-images.githubusercontent.com/60897810/146278384-5638acea-969e-490f-bd5b-583421aa4632.png)
+
+
+
 
 
 
